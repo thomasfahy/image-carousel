@@ -1,0 +1,24 @@
+{
+  "name": "image-carousel",
+  "version": "1.0.0",
+  "description": "A module to create image carousels for future projects",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thomasfahy/image-carousel.git"
+  },
+  "keywords": [
+    "carousel",
+    "image",
+    "slider"
+  ],
+  "author": "Thomas Fahy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomasfahy/image-carousel/issues"
+  },
+  "homepage": "https://github.com/thomasfahy/image-carousel#readme"
+}
